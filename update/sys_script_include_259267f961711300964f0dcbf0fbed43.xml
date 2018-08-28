@@ -47,13 +47,13 @@ catch(ex) {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-05-02 01:21:28</sys_created_on>
         <sys_id>259267f961711300964f0dcbf0fbed43</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>GetManufacturer</sys_name>
         <sys_package display_value="Parking Issues" source="x_pir">2bc7b833673212008db1bcb532415a9d</sys_package>
-        <sys_policy>read</sys_policy>
+        <sys_policy>protected</sys_policy>
         <sys_scope display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</sys_scope>
         <sys_update_name>sys_script_include_259267f961711300964f0dcbf0fbed43</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-02 01:55:03</sys_updated_on>
+        <sys_updated_on>2018-08-28 17:27:17</sys_updated_on>
     </sys_script_include>
 </record_update>

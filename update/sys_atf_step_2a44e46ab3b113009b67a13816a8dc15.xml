@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
+        <copied_from/>
         <description>Validate record from table 'x_pir_car' matches the following condition:
 Display = Wagon Queen Family Truckster
 With a failure timeout of 5 Seconds</description>
         <display_name>Record Validation</display_name>
         <inputs/>
         <inputs/>
+        <notes/>
         <order>2</order>
         <step_config display_value="Record Validation">1f39a288df60220062fe6c7a4df2639d</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
