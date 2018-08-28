@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
     <sys_atf_test action="INSERT_OR_UPDATE">
         <active>true</active>
+        <copied_from/>
         <description>When a Car is inserted or updated, the Display field should always be the current Make plus the current Model (for example: "Ford Taurus").</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
         <name>Car Display Value logic</name>
+        <parameters/>
         <remember/>
         <sys_class_name>sys_atf_test</sys_class_name>
         <sys_created_by>admin</sys_created_by>
