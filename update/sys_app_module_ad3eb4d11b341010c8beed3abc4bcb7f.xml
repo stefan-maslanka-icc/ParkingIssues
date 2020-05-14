@@ -17,22 +17,22 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_pir.user,x_pir.lot_manager</roles>
+        <roles>x_pir.user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-05-14 09:11:34</sys_created_on>
+        <sys_created_on>2020-05-14 15:40:55</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>0a15e3091b301010c8beed3abc4bcbf8</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>ad3eb4d11b341010c8beed3abc4bcb7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Parking Issues</sys_name>
         <sys_overrides/>
         <sys_package display_value="Parking Issues" source="x_pir">2bc7b833673212008db1bcb532415a9d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</sys_scope>
-        <sys_update_name>sys_app_module_0a15e3091b301010c8beed3abc4bcbf8</sys_update_name>
+        <sys_update_name>sys_app_module_ad3eb4d11b341010c8beed3abc4bcb7f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-14 11:13:36</sys_updated_on>
+        <sys_updated_on>2020-05-14 15:40:55</sys_updated_on>
         <timeline_page/>
         <title>Parking Issues</title>
         <uncancelable>false</uncancelable>

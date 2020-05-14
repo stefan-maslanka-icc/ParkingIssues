@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Parking Issue" max_length="40" name="x_pir_parking_issue" sizeclass="0" type="collection">
+    <element label="Parking Issue" max_length="40" name="x_pir_parking_issue" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Car" mandatory="true" max_length="32" name="u_car" reference="x_pir_employee_car" type="reference"/>
         <element label="Description" max_length="1000" name="u_description" type="string"/>

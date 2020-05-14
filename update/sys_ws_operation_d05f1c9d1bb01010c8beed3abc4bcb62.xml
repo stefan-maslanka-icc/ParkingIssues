@@ -19,26 +19,15 @@
     // TODO: Create EmployeeCar script include
     // TODO: Add method find() which accepts the specified string parms
     //       and returns a GlideRecord (if found) or null (not found)
-
-	function test() {
-		var x = new GlideRecordSecure('x_pir_parking_issue');
-		x.addQuery('u_description', 'test_admin');
-		x.query();
-		var rows = x.getRowCount();
-		var y = x.getValue('u_car');
-		var id = x.getUniqueValue();
-		var a = 1;
-	}
-	
-	test();
 	
     function employeeCar(licensePlate, color, make, model) {
         var car = new GlideRecordSecure('x_pir_employee_car');
 		car.addQuery('license_plate_number', '=', licensePlate);
 		car.query();
+		car.next();
 // 		var uniqueId = car.getUniqueValue();
-		var uniqueId = car.getValue('sys_id');
-		var test = car.getRowCount();
+// 		var uniqueId = car.getValue('sys_id');
+// 		var test = car.getRowCount();
 		return car;
     }
 
@@ -94,14 +83,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-14 13:29:05</sys_created_on>
         <sys_id>d05f1c9d1bb01010c8beed3abc4bcb62</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>report_issue</sys_name>
         <sys_package display_value="Parking Issues" source="x_pir">2bc7b833673212008db1bcb532415a9d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</sys_scope>
         <sys_update_name>sys_ws_operation_d05f1c9d1bb01010c8beed3abc4bcb62</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-14 14:49:33</sys_updated_on>
+        <sys_updated_on>2020-05-14 15:44:04</sys_updated_on>
         <web_service_definition display_value="Parking Issue">befc145d1bb01010c8beed3abc4bcbd3</web_service_definition>
         <web_service_version/>
     </sys_ws_operation>
