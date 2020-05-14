@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Parking Issues">298fb3891b701010c8beed3abc4bcb46</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Cars</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_pir_car</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_pir.lot_manager</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-14 11:12:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5a808c591b701010c8beed3abc4bcbbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cars</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Parking Issues" source="x_pir">2bc7b833673212008db1bcb532415a9d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</sys_scope>
+        <sys_update_name>sys_app_module_5a808c591b701010c8beed3abc4bcbbf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-14 11:12:12</sys_updated_on>
+        <timeline_page/>
+        <title>Cars</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</application>
+        <file_path/>
+        <instance_id>9a055ceddb12f7409df22f17d496199e</instance_id>
+        <instance_name>dev88756</instance_name>
+        <name>sys_app_module_5a808c591b701010c8beed3abc4bcbbf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Parking Issues">298fb3891b701010c8beed3abc4bcb46</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Cars</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_pir_car</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_pir.lot_manager</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-14 11:12:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5a808c591b701010c8beed3abc4bcbbf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cars</sys_name><sys_overrides/><sys_package display_value="Parking Issues" source="x_pir">2bc7b833673212008db1bcb532415a9d</sys_package><sys_policy/><sys_scope display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</sys_scope><sys_update_name>sys_app_module_5a808c591b701010c8beed3abc4bcbbf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-14 11:12:12</sys_updated_on><timeline_page/><title>Cars</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-21980494</payload_hash>
+        <record_name>Cars</record_name>
+        <reverted_from/>
+        <source>496e1b011b301010c8beed3abc4bcbe2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-14 11:12:12</sys_created_on>
+        <sys_id>9db08c991b701010c8beed3abc4bcb8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17212e27e570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-14 11:12:12</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d5b08c99407010101367e2650ecd238b</update_guid>
+        <update_guid_history>d5b08c99407010101367e2650ecd238b:-21980494</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Cars">3fd044d91b701010c8beed3abc4bcb7f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-14 11:12:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>051c51bb37ae4120a010fe0c8a220900</sys_id>
+        <sys_metadata>5a808c591b701010c8beed3abc4bcbbf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cars</sys_name>
+        <sys_package display_value="Parking Issues" source="x_pir">2bc7b833673212008db1bcb532415a9d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</sys_scope>
+        <sys_scope_delete display_value="">04a27613376740728232785270cd51b1</sys_scope_delete>
+        <sys_update_name>sys_app_module_5a808c591b701010c8beed3abc4bcbbf</sys_update_name>
+        <sys_update_version display_value="sys_app_module_5a808c591b701010c8beed3abc4bcbbf">9db08c991b701010c8beed3abc4bcb8b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-14 11:12:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Parking Issues">97783473673212008db1bcb532415a85</application>
+        <filter/>
+        <name>Parking Issues</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_pir.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-14 09:02:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8213eb051b301010c8beed3abc4bcb1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Parking Issues</sys_name>
+        <sys_package display_value="Parking Issues" source="x_pir">2bc7b833673212008db1bcb532415a9d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</sys_scope>
+        <sys_update_name>sys_ui_module_8213eb051b301010c8beed3abc4bcb1c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-14 09:02:49</sys_updated_on>
+        <table>x_pir_parking_issue</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</application>
+        <file_path/>
+        <instance_id>9a055ceddb12f7409df22f17d496199e</instance_id>
+        <instance_name>dev88756</instance_name>
+        <name>sys_ui_module_8213eb051b301010c8beed3abc4bcb1c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Parking Issues">97783473673212008db1bcb532415a85</application><filter/><name>Parking Issues</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_pir.user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-14 09:02:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8213eb051b301010c8beed3abc4bcb1c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Parking Issues</sys_name><sys_package display_value="Parking Issues" source="x_pir">2bc7b833673212008db1bcb532415a9d</sys_package><sys_policy/><sys_scope display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</sys_scope><sys_update_name>sys_ui_module_8213eb051b301010c8beed3abc4bcb1c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-14 09:02:49</sys_updated_on><table>x_pir_parking_issue</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-689560703</payload_hash>
+        <record_name>Parking Issues</record_name>
+        <reverted_from/>
+        <source>496e1b011b301010c8beed3abc4bcbe2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-14 09:02:49</sys_created_on>
+        <sys_id>8a136f851b301010c8beed3abc4bcb5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172126c0a190000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-14 09:02:49</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c2136f85b3301010c3d34fba2074225e</update_guid>
+        <update_guid_history>c2136f85b3301010c3d34fba2074225e:-689560703</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-14 09:08:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>1e113239ba7e40958b99787c80ce6849</sys_id>
+        <sys_metadata>8213eb051b301010c8beed3abc4bcb1c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Parking Issues</sys_name>
+        <sys_package display_value="Parking Issues" source="x_pir">2bc7b833673212008db1bcb532415a9d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</sys_scope>
+        <sys_scope_delete display_value="">04a27613376740728232785270cd51b1</sys_scope_delete>
+        <sys_update_name>sys_ui_module_8213eb051b301010c8beed3abc4bcb1c</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_8213eb051b301010c8beed3abc4bcb1c">8a136f851b301010c8beed3abc4bcb5e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-14 09:08:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
